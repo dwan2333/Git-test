@@ -1,1 +1,2 @@
 "this is 3rd file created for testing squashing"  
+"this is a new line written for testing cherrypick"  
